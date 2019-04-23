@@ -1,0 +1,30 @@
+{
+  "name": "react-native-nested-scrollView",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqhung139/react-native-nested-scrollView.git"
+  },
+  "author": "hung.nq139",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nqhung139/react-native-nested-scrollView/issues"
+  },
+  "homepage": "https://github.com/nqhung139/react-native-nested-scrollView#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/runtime": "^7.4.3"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.5"
+  }
+}
